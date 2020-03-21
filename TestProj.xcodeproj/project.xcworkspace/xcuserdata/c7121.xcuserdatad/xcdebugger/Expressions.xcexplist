@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.mapView(_:rendererFor:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "token != &quot;&quot;">
+            </PersistentString>
+            <PersistentString
+               value = "token">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.checkFacebookLogin():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ViewController.onTapMap(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "placemark.coordinate.latitude">
+            </PersistentString>
+            <PersistentString
+               value = "item.placemark">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.onTapMap(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "region">
+            </PersistentString>
+            <PersistentString
+               value = "mapView.region">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.mapView(_:didSelect:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "token">
+            </PersistentString>
+            <PersistentString
+               value = "view.annotation.latitude">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.viewDidLoad():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ViewController.facebookLogin(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "token != &quot;&quot;">
+            </PersistentString>
+            <PersistentString
+               value = "accessToken.tokenString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
